@@ -1,0 +1,202 @@
+h1{
+	text-align: center;
+	background-image: url(../images/mandala.jpg);
+	color: white;
+	border: black solid;
+	 border-radius: 12px;
+
+}
+
+.body{
+
+
+}
+
+
+
+.header{
+	text-align: center;
+	min-height: 100px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	
+}
+
+.wrapper{
+
+	overflow: hidden;
+}
+
+
+.contact{
+	text-align: center;
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: green;
+}
+.blog{
+	text-align: center;
+float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: blue;
+	color: white;
+}
+
+.footer{
+	text-align: center;
+	min-height: 100px;
+	background-color: yellow;
+}
+
+.header1{
+	text-align: center;
+	min-height: 100px;
+	background-color:black;
+	color: yellow;
+}
+
+.wrapper1{
+	overflow: hidden;
+	
+
+}
+
+.blog1{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 25%;
+	background-color: red;
+}
+
+.contact1{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 25%;
+	background-color: green;
+}
+.newsfeed{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 25%;
+	background-color: gray;
+}
+
+.aboutus{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 25%;
+	background-color: pink;
+}
+
+.footer1{
+	text-align: center;
+	min-height: 100px;
+	background-color: skyblue;
+}
+
+.wrapper2{
+	overflow: hidden;
+	
+}
+
+
+.up{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 50%;
+	background-color: blue;
+}
+
+.upright{
+	text-align: center;
+	float: right;
+	min-height: 100px;
+	width: 50%;
+	background-color: red;
+}
+
+.content{
+	text-align: center;
+	min-height: 100px;
+	width:100% ;
+	background-color: yellow;
+}
+
+.end1{
+	text-align: center;
+	float: left;
+	min-height: 100px;
+	width: 50%;
+	background-color: black;
+	color: white;
+}
+.end2{
+	text-align: center;
+	float: right;
+	min-height: 100px;
+	width: 50%;
+	background-color: green;
+}
+
+.box2{
+	overflow: hidden;
+}
+.heading1{
+	float: left;
+	min-height: 100px;
+	width: 50%;
+	background-color:black;
+	color: white;
+	text-align: center;
+}
+.heading2{
+	text-align: center;
+	float: right;
+	min-height: 100px;
+	width: 50%;
+	background-color: green;
+}
+
+.content2{
+	text-align: center;
+	float: left;
+	min-height: 200px;
+	width: 50%;
+	background-color: yellow;
+}
+
+.content3{
+	text-align: center;
+	float: right;
+	min-height: 200px;
+	width: 50%;
+	background-color: gray;
+}
+
+.footer2{
+	text-align: center;
+	float: left;
+	min-height: 50px;
+	width: 60%;
+	background-color: blue;
+}
+.footer3{
+	text-align: center;
+	float: right;
+	min-height: 50px;
+	width: 40%;
+	background-color: orange;
+}
+
+
+.p{
+	background-image: url(../images/owl.jpg);
+}
